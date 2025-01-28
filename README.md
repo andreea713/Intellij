@@ -1,5 +1,5 @@
-# 💫 About Me:
-To-do-list<br>API CRUD (creat, read, update, delete) con DTOs y DAOs de tareas, postman y swagger para pruebas, manejo de excepciones personalizadas, guardado en una BBDD simple
+# 💫 About this repo:
+To-do-list<br>CRUD API (Create, Read, Update, Delete) with DTOs and DAOs for tasks, Postman and Swagger for testing, custom exception handling, and storage in a simple database.
 
 
 # 💻 Tech Stack:
